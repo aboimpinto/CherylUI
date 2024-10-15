@@ -1,0 +1,13 @@
+/home/esqueleto/myWork/CherylUI/CherylUI/bin/Debug/netstandard2.0/CherylUI.deps.json
+/home/esqueleto/myWork/CherylUI/CherylUI/bin/Debug/netstandard2.0/CherylUI.dll
+/home/esqueleto/myWork/CherylUI/CherylUI/bin/Debug/netstandard2.0/CherylUI.pdb
+/home/esqueleto/myWork/CherylUI/CherylUI/obj/Debug/netstandard2.0/CherylUI.csproj.AssemblyReference.cache
+/home/esqueleto/myWork/CherylUI/CherylUI/obj/Debug/netstandard2.0/Avalonia/Resources.Inputs.cache
+/home/esqueleto/myWork/CherylUI/CherylUI/obj/Debug/netstandard2.0/Avalonia/resources
+/home/esqueleto/myWork/CherylUI/CherylUI/obj/Debug/netstandard2.0/CherylUI.GeneratedMSBuildEditorConfig.editorconfig
+/home/esqueleto/myWork/CherylUI/CherylUI/obj/Debug/netstandard2.0/CherylUI.AssemblyInfoInputs.cache
+/home/esqueleto/myWork/CherylUI/CherylUI/obj/Debug/netstandard2.0/CherylUI.AssemblyInfo.cs
+/home/esqueleto/myWork/CherylUI/CherylUI/obj/Debug/netstandard2.0/CherylUI.csproj.CoreCompileInputs.cache
+/home/esqueleto/myWork/CherylUI/CherylUI/obj/Debug/netstandard2.0/CherylUI.sourcelink.json
+/home/esqueleto/myWork/CherylUI/CherylUI/obj/Debug/netstandard2.0/Avalonia/CherylUI.dll
+/home/esqueleto/myWork/CherylUI/CherylUI/obj/Debug/netstandard2.0/Avalonia/CherylUI.pdb

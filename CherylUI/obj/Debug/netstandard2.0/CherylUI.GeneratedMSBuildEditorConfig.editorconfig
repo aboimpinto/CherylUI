@@ -1,0 +1,114 @@
+is_global = true
+build_property.AvaloniaNameGeneratorIsEnabled = true
+build_property.AvaloniaNameGeneratorBehavior = InitializeComponent
+build_property.AvaloniaNameGeneratorDefaultFieldModifier = internal
+build_property.AvaloniaNameGeneratorFilterByPath = *
+build_property.AvaloniaNameGeneratorFilterByNamespace = *
+build_property.AvaloniaNameGeneratorViewFileNamingStrategy = NamespaceAndClassName
+build_property.AvaloniaNameGeneratorAttachDevTools = true
+build_property.RootNamespace = CherylUI
+build_property.ProjectDir = /home/esqueleto/myWork/CherylUI/CherylUI/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/ColorThemes/DarkTheme.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/ColorThemes/LightTheme.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/BusyArea.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/FormFields/FormFieldAction.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/FormFields/FormFieldNumberPicker.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/FormFields/FormFieldPicker.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/FormFields/FormFieldSwitch.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/GlassMorphism/GlassCard.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/GroupBox.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/HorizontalSeparator.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/InteractiveContainer.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/Loading.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/MobileNavigation.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/MobileNumberPicker/MobileNumberPicker.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/MobileNumberPicker/MobileNumberPickerPopup.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/MobilePicker/MobilePicker.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/MobilePicker/MobilePickerPopUp.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/SliverPage.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Controls/SliverPageLong.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Icons.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Index.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Styles/ButtonStyles.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Styles/CardStyles.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Styles/CheckBoxStyles.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Styles/DatePickerStyles.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Styles/ListboxStyles.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Styles/ProgressbarStyles.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Styles/RadioButtonStyles.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Styles/SliderStyles.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Styles/TabControlStyles.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Styles/TextBoxStyles.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Styles/TextEraserButton.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Styles/TextStyles.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/esqueleto/myWork/CherylUI/CherylUI/Styles/ToggleButtonStyles.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

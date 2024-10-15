@@ -15,10 +15,19 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <!-- 
       <PackageReference Include="Avalonia.Skia" Version="11.2.0-beta2" />
       <PackageReference Include="Avalonia.Themes.Simple" Version="11.2.0-beta2" />
       <PackageReference Include="ReactiveUI" Version="20.1.52" />
-      <PackageReference Include="SkiaSharp" Version="3.0.0-preview.4.1" />
+      <PackageReference Include="SkiaSharp" Version="3.0.0-preview.4.1" /> 
+      -->
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Avalonia.Skia" Version="11.1.4" />
+      <PackageReference Include="Avalonia.Themes.Simple" Version="11.1.4" />
+      <PackageReference Include="ReactiveUi" Version="20.1.63" />
+      <PackageReference Include="SkiaSharp" Version="2.88.8" />
     </ItemGroup>
 
     <ItemGroup>

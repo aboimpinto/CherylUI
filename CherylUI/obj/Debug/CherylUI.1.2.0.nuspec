@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CherylUI</id>
+    <version>1.2.0</version>
+    <authors>Clément Sepulchre</authors>
+    <projectUrl>https://github.com/kikipoulet/CherylUI</projectUrl>
+    <description>https://github.com/kikipoulet/CherylUI</description>
+    <repository type="git" url="https://github.com/kikipoulet/CherylUI" commit="21c98a03595bf576816785039294d53fc64e1dd7" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Avalonia.Skia" version="11.1.4" exclude="Build,Analyzers" />
+        <dependency id="Avalonia.Themes.Simple" version="11.1.4" exclude="Build,Analyzers" />
+        <dependency id="ReactiveUi" version="20.1.63" exclude="Build,Analyzers" />
+        <dependency id="SkiaSharp" version="2.88.8" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/esqueleto/myWork/CherylUI/CherylUI/bin/Debug/netstandard2.0/CherylUI.dll" target="lib/netstandard2.0/CherylUI.dll" />
+  </files>
+</package>
